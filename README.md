@@ -1,0 +1,2 @@
+# MNIST Latent Space
+This project is all held in the 1 notebook. It is the first project spotlight and rated in the [ML project spotlight Youtube series](). It's particular video can be found [here]().
